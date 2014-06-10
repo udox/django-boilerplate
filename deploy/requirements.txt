@@ -1,0 +1,6 @@
+Django==1.6.5
+bootstrap-admin==0.3.0
+django-haystack==2.1.0
+South==0.8.4
+raven==5.0.0
+
